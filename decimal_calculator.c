@@ -1,6 +1,6 @@
 /*
 
-*** Simple Calculator ( decimal numbers only )
+*** Simple Calculator ( decimal numbers only ) ***
 Created by: @emrno
 Time: 6:06 (UTC+8)
 

@@ -1,7 +1,8 @@
-/* simple calculator in C
+/*
 
-created by: @emrno
-time: 5:54 PM (utc+8)
+*** Simple Calculator ( whole numbers only ) ***
+Created by: @emrno
+Time: 5:54 PM (UTC+8)
 
 */
 
@@ -17,7 +18,7 @@ int main() {
 	int choice;
 	int num1;
 	int num2;
-	printf("Calculator (Whole numbers only)\n\n1 for addition\n2 for subtraction\n3 for multiplication\n4 for division\n\nSelect your choice: ");
+	printf("Calculator ( whole numbers only )\n\n1 for addition\n2 for subtraction\n3 for multiplication\n4 for division\n\nSelect your choice: ");
 	scanf("%d", &choice);
 	if (choice == 1) {
 		clear();
